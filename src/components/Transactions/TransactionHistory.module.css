@@ -1,0 +1,16 @@
+.transaction__history {
+  background-color: seagreen;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.transaction__history td {
+  border-radius: 5px;
+  font-weight: 700;
+}
+.transaction {
+  background-color: tan;
+  margin: 10px auto;
+  width: 500px;
+  border-radius: 10px;
+}
